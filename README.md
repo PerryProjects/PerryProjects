@@ -1,5 +1,9 @@
 # 💫 About Me:
-# Hi there! Or as we say in Northern Germany, 'Moin'! 👋<br><br>My name is Petrick, but my friends call me Perry, so you can too!<br>I'm 27 years old and I reside in the scenic North Germany, where the winds share tales of coding quests, and the nearby North Sea adds a refreshing breeze to my coding sessions.<br><br>I'm a passionate developer exploring the vast universe of code. My mission? To turn caffeine into software! ☕🚀<br>
+<h1>Hi there! Or as we say in Northern Germany, 'Moin'! 👋<br><br>
+
+My name is Petrick, but my friends call me Perry, so you can too!<br><br>I'm 27 years old and I reside in the scenic North Germany, where the winds share tales of coding quests, and the nearby North Sea adds a refreshing breeze to my coding sessions.<br><br>I'm a passionate developer exploring the vast universe of code. My mission? To turn caffeine into software! ☕🚀<br> 
+</h1> <br>
+
 ## 🔭 Currently Working On<br>- Delving into the depths of PHP and JavaScript, crafting web wonders.<br>- Rustling up some Rust, aiming for code elegance and performance.<br>- Building a time-traveling app (still in alpha, don't ask for the repo yet!).<br>
 ## 👯 Looking to Collaborate On<br>- Open-source projects that make a positive impact.<br>- Brainstorming wild ideas with fellow developers.<br>
 ## 🤝 Seeking Help With<br>- Quantum computing (because who doesn't want to bend reality?).<br>- Finding the perfect emoji for every commit message.<br>- Unraveling the mystery of the error on line 404. It seems to be playing hide and seek!<br>
@@ -29,7 +33,11 @@
 ### Miscellaneous  
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)  ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
+___
 
+ <p align="center">
+✍️ Random developer quote <br>
+ </p>
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" />
 </p>
