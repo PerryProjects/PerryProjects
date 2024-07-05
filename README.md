@@ -34,12 +34,3 @@ My name is Petrick, but my friends call me Perry, so you can too!<br><br>I'm 27 
  ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)  ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)    
 ### Miscellaneous  
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)  ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-___
-
- <p align="center">
-✍️ Random developer quote <br>
- </p>
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" />
-</p>
