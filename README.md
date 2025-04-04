@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1>Hi there! Or as we say in Northern Germany, 'Moin'! 👋<br><br>
 
-My name is Petrick, but my friends call me Perry, so you can too!<br><br>I'm 27 years old and I reside in the scenic North Germany, where the winds share tales of coding quests, and the nearby North Sea adds a refreshing breeze to my coding sessions.<br><br>I'm a passionate developer exploring the vast universe of code. My mission? To turn caffeine into software! ☕🚀<br> 
+My name is Petrick, but my friends call me Perry, so you can too!<br><br>I'm 28 years old and I reside in the scenic North Germany, where the winds share tales of coding quests, and the nearby North Sea adds a refreshing breeze to my coding sessions.<br><br>I'm a passionate developer exploring the vast universe of code. My mission? To turn caffeine into software! ☕🚀<br> 
 </h1> <br>
 
 ## 🔭 Currently Working On<br><br>- Delving into the depths of PHP and JavaScript, crafting web wonders.<br>- Rustling up some Rust, aiming for code elegance and performance.<br>- Building a time-traveling app (still in alpha, don't ask for the repo yet!).<br>
